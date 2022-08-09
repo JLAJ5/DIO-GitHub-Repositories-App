@@ -16,5 +16,5 @@ O curso pode ser acessado na plataforma da [Digital Innovation One](https://digi
 </a>
 </p>
 
-## <br /><br /><br /><br />Descrição do App.
+## <br /><br /><br /><br />Descrição
 App Android para apresentar seu portfólio de projetos do GitHub de maneira elegante e simplificada.
